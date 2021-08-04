@@ -45,30 +45,24 @@ There will be two phases for this challenge:
 
 Some detailed rules are listed as follows:
 
-The participates can form their own teams from different organizations and the number of participants is not limited. But only one team is allowed from an individual organization. 
-
-The participates are NOT allowed to use external data for either training or validation. 
-
-The teams need to provide their opensource code through GitHub after the challenge results announcement. 
-
-The participates are not allowed to use extra information from human labeling on the training dataset or testing dataset for the challenge’s target labels. 
-
-During each of the two phases in the competition, each team can only submit their results for evaluation less than 5 attempts in total. 
-
-The provided dataset can only be used for academic purposes. By using this dataset and related software, you agree to cite our dataset and baseline paper. 
-
-The first three participants in each phase will be issued certificates.
+* The participates can form their own teams from different organizations and the number of participants is not limited. But only one team is allowed from an individual organization. 
+* The participates are NOT allowed to use external data for either training or validation. 
+* The teams need to provide their opensource code through GitHub after the challenge results announcement. 
+* The participates are not allowed to use extra information from human labeling on the training dataset or testing dataset for the challenge’s target labels. 
+* During each of the two phases in the competition, each team can only submit their results for evaluation less than 5 attempts in total. 
+* The provided dataset can only be used for academic purposes. By using this dataset and related software, you agree to cite our dataset and baseline paper. 
+* The first three participants in each phase will be issued certificates.
 
 ## Host Organization:
 MePro, Institute of Information Science, Beijing Jiaotong University
 
 ## Organizers:
-Yao Zhao (yzhao@bjtu.edu.cn): Professor, Beijing Jiaotong University 
-Runmin Cong (rmcong@bjtu.edu.cn): Associate Professor, Beijing Jiaotong University 
-Huihui Bai (hhbai@bjtu.edu.cn): Professor, Beijing Jiaotong University 
-Chunjie Zhang (cjzhang@bjtu.edu.cn): Professor, Beijing Jiaotong University 
-Chunyu Lin (cylin@bjtu.edu.cn): Professor, Beijing Jiaotong University 
-Meiqin Liu (mqliu@bjtu.edu.cn): Associate Professor, Beijing Jiaotong University 
+Yao Zhao (yzhao@bjtu.edu.cn): Professor, Beijing Jiaotong University
+Runmin Cong (rmcong@bjtu.edu.cn): Associate Professor, Beijing Jiaotong University
+Huihui Bai (hhbai@bjtu.edu.cn): Professor, Beijing Jiaotong University
+Chunjie Zhang (cjzhang@bjtu.edu.cn): Professor, Beijing Jiaotong University
+Chunyu Lin (cylin@bjtu.edu.cn): Professor, Beijing Jiaotong University
+Meiqin Liu (mqliu@bjtu.edu.cn): Associate Professor, Beijing Jiaotong University
 Sam Kwong (cssamk@cityu.edu.hk): Chair Professor, City University of Hong Kong 
 ```markdown
 [Link](url) and ![Image](src)
