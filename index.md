@@ -9,7 +9,7 @@ As a supplement of the RGB modality, the depth map can provide useful depth info
 In order to be applied on the platforms of the mobile devices and embedded systems, the depth map SR algorithms should take into account both the efficiency and accuracy. Furthermore, down-sampling as a straight-forward strategy has been widely used in the existing depth map SR algorithms to construct paired HR and LR depth maps training samples, which fails to simulate the real correspondences between HR and LR depth maps. 
 In this competition, we encourage the participants to design depth map SR models that can suit the real-world depth map SR task. Giving depth maps captured by low-power depth sensor, they are supposed to be up-sampled not only fit for embedded systems but also achieve high accuracy at the same time.
 
-##Dataset Download:
+## Dataset Download:
 We randomly split 1586 portraits, 380 plants, 249 models from RGB-D-D dataset as the training set for this challenge. Meanwhile, we randomly select 50 samples from the test set in RGB-D-D dataset to evaluate your models by two phases.
 The dataset can only be used for academic purposes. By using this dataset and related codes, you should agree to cite our dataset and baseline paper. You can apply the training set and get more detailed content according to the home page of our group: [http://mepro.bjtu.edu.cn/resource.html](http://mepro.bjtu.edu.cn/resource.html)
 
@@ -26,14 +26,14 @@ The source code for the baseline method (FDSR) can be found: [https://github.com
   pages={9229--9238},
   year={2021}
 }
-
+```
 ## Important Dates
-Registration Start Date: 				**August 10, 2021**
-Training Dataset Available Date: 		**August 10, 2021**
-Test Dataset Available Data:			**October 10, 2021**
-First-phase Submission Start Date:		**October 10, 2021**
-First-phase Submission Deadline: 		**October 17, 2021**
-Second-phase Submission Start Date: 	**October 20, 2021**
+Registration Start Date: 		**August 10, 2021**
+Training Dataset Available Date: 	**August 10, 2021**
+Test Dataset Available Data:		**October 10, 2021**
+First-phase Submission Start Date:	**October 10, 2021**
+First-phase Submission Deadline: 	**October 17, 2021**
+Second-phase Submission Start Date: **October 20, 2021**
 Second-phase Submission Deadline: 	**October 27, 2021**
 Winner Announcement Date Around: 	**October 30, 2021**
 
